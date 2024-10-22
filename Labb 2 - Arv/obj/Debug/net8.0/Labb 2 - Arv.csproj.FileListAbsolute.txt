@@ -1,0 +1,14 @@
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/bin/Debug/net8.0/Labb 2 - Arv
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/bin/Debug/net8.0/Labb 2 - Arv.deps.json
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/bin/Debug/net8.0/Labb 2 - Arv.runtimeconfig.json
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/bin/Debug/net8.0/Labb 2 - Arv.dll
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/bin/Debug/net8.0/Labb 2 - Arv.pdb
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.AssemblyInfoInputs.cache
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.AssemblyInfo.cs
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.csproj.CoreCompileInputs.cache
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.dll
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/refint/Labb 2 - Arv.dll
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.pdb
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.genruntimeconfig.cache
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/ref/Labb 2 - Arv.dll
