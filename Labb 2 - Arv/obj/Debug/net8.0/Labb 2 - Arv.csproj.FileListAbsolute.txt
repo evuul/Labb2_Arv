@@ -12,3 +12,4 @@
 /Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.pdb
 /Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.genruntimeconfig.cache
 /Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/ref/Labb 2 - Arv.dll
+/Users/alexanderek/RiderProjects/Labb 2 - Arv/Labb 2 - Arv/obj/Debug/net8.0/Labb 2 - Arv.sourcelink.json
