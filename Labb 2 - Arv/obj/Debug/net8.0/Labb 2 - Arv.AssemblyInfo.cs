@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Labb 2 - Arv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9b8741f6e4726e95cbb298853006b15566776fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eee1f9c2d9e9c1ef58819de96faa11e5347c8fda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Labb 2 - Arv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Labb 2 - Arv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,11 +2,11 @@ namespace Labb_2___Arv;
 
 public class Animal
 {
-    public string Name { get; set; }
-    public int Age { get; set; }
-    public double Weight { get; set; }
-    public string Sound { get; set; }
-    public string Type { get; set; }
+    public string Name { get; set; } = "Inget namn";
+    public int Age { get; set; } = 0;
+    public double Weight { get; set; } = 0;
+    public string Sound { get; set; } = "Inget ljud";
+    public string Type { get; set; } = "Okänt";
     
     public Animal(string name, int age, double weight, string sound, string type)
     {
@@ -17,7 +17,7 @@ public class Animal
         Sound = sound;
     }
     
-    public void ShowInfo()
+    public virtual void ShowInfo()
     {
         Console.WriteLine($"Name: {Name}\nAge: {Age}\nWeight: {Weight}\nSound: {Sound}\nType: {Type}");
     }
@@ -29,11 +29,11 @@ public class Animal
     
     public virtual void Eat()
     {
-        Console.WriteLine($"{Name} is eating something delicious");
+        Console.WriteLine($"{Name} äter något gott");
     }
     
     public virtual void Stare()
     {
-        Console.WriteLine($"{Name} is staring at you with an intense look");
+        Console.WriteLine($"{Name} tittar på dig med sina ögon");
     }
 }
